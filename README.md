@@ -1,7 +1,7 @@
  ### Hi there 👋 I'm Peter 👨‍💻
 
 
-    I am 22 years old and I study Systems Analysis and Development at PUC Minas and Web Development FullStack by Resilia Educação.
+I am 22 years old and I study Systems Analysis and Development at PUC Minas and Web Development FullStack by Resilia Educação.
 <br>
 
 ## Where to find me
