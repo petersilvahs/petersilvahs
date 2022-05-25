@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" width="30%" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img align="right" width="300" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 ### About Me 📜
 
