@@ -1,13 +1,11 @@
 <h1 align="center"> Hi there. I'm Peter! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <h3 align="center">Front-end Developer</h3>
-
 <br>
-
-<img align="right" width="300" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 ### About Me 📜
 
+<img width="40%" align="right" alt="Github Header" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
 <p>
 
