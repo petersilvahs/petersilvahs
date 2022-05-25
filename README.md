@@ -3,9 +3,9 @@
 <h3 align="center">Front-end Developer</h3>
 <br>
 
-### About Me 📜
+<img width="30%" align="right" alt="Github Header" src="./img/2022-05-25_17-40-removebg-preview.png" />
 
-<img width="20%" align="right" alt="Github Header" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
+### About Me 📜
 
 <p>
 
