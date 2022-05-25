@@ -5,7 +5,7 @@
 
 ### About Me 📜
 
-<img  width="30%" align="right" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img  width="40%" align="right" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 <p>
 
