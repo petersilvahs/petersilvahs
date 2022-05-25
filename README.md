@@ -34,6 +34,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3>GitHub Stats and Most Used Languages</h3>
+<h3>GitHub Stats</h3>
+
+<div align="center" >
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=petersilvahs&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+</div>
+
