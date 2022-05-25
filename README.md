@@ -1,12 +1,23 @@
- ### Hi there 👋 I'm Peter 👨‍💻
+<h1 align="center"> Hi there. I'm Peter! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-
-<h4>I'm 23 years old, I study Systems Analysis and Development at PUC Minas and I graduated in FullStack Web Development at Resilia Educação.</h4>
+<h3 align="center">Front-end Developer</h3>
 <br>
 
-## Where to find me
+### About Me 📜
 
-[![Linkedin: PeterSilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-silva-14bb371a2/)](https://www.linkedin.com/in/peter-silva-14bb371a2/)
+<img  width="30%" align="right" alt="Github Header" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+
+<p>
+
+- Studiyng Systems Analysis and Development at PUC Minas 
+- Graduated in FullStack Web Development at Resilia Educação
+</p>
+
+<br>
+
+<h3>Where to find me</h3>
+
+[![Linkedin: PeterSilva]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-silva-14bb371a2/)
 
 ## Tech skills
 
@@ -19,6 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## GitHub Stats and Most Used Languages
+<h3>GitHub Stats and Most Used Languages</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=petersilvahs&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
