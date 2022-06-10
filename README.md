@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there. I'm Peter! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hi there. I'm Peter! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> </h1>
 
 <h3 align="center">Front-end Developer</h3>
 <br>
